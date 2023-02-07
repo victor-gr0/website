@@ -1,4 +1,4 @@
-Projeto adaptado de E-commerce desenvolvido com HTML e CSS.
+Projeto adaptado de E-commerce desenvolvido com HTML, CSS e JavaScript.
 Sem fins comerciais, apenas com intuito de aprendizado e prática.
 
 Feito por Victor Guimarães
