@@ -280,6 +280,21 @@ ul{
         cursor: pointer;
     }
 }
+/*All products page*/
+.row-2{
+   justify-content: space-between;
+   margin: 100px auto 50px;
+}
+select{
+    border: 1px solid #ff523b;
+    padding: 5px;
+}
+select:focus{
+    outline: none;
+}
+
+
+
 /* Media Query for less tan 600 screen size*/
 @media only screen and (max-width: 600px){
     .row{
